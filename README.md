@@ -10,4 +10,11 @@ We use 3D convolutional autoencoders to build the domain irrelevant latent space
 demonstrate this method to outperform existing approaches on ABIDE data.
 
 
-Sourse paper: https://arxiv.org/submit/3416955/view
+The source paper: https://arxiv.org/submit/3416955/view
+
+
+Authors: Marina Pominova `@PominovaMS`, Ekaterina Kondrateva `@kondratevakate`
+
+
+Our lab cite, please refer: http://adase.group/neuro/
+
