@@ -13,7 +13,8 @@ demonstrate this method to outperform existing approaches on ABIDE data.
 The source paper: https://arxiv.org/submit/3416955/view
 
 
-Authors: Marina Pominova `@PominovaMS`, Ekaterina Kondrateva `@kondratevakate`
+Author: Marina Pominova `@PominovaMS`
+Editor: Ekaterina Kondrateva `@kondratevakate`
 
 
 Our lab cite, please refer: http://adase.group/neuro/
