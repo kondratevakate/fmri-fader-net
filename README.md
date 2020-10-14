@@ -1,4 +1,4 @@
-# fmri-fider-net
+# fmri-fader-net
 #### Fader Networks for domain adaptation on fMRI: ABIDE-II study 
 
 ABIDE is the largest open-source autism spectrum disorder database with both fMRI data and full phenotype
